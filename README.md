@@ -90,7 +90,8 @@
 
 
 ## OUTPUT
-![WhatsApp Image 2023-05-22 at 10 30 32 PM](https://github.com/SaiganeshVelu/Ex03_Web-Design/assets/127816325/5192e84f-c7ee-4e31-bb4b-7412dda43abb)
+![Screenshot (24)](https://github.com/SaiganeshVelu/Ex03_Web-Design/assets/127816325/3a2d2110-78ac-473b-9336-475faca3e183)
+
 
 
 ## RESULT
